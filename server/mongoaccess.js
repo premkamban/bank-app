@@ -1,0 +1,1 @@
+mongodb + srv://premkamban:<password>@cluster0.s6z97.mongodb.net/<dbname>?retryWrites=true&w=majority
